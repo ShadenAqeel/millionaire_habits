@@ -1,0 +1,11 @@
+{
+  "source_url": "https://www.kaggle.com/datasets/datascikhan/millionaire-habits-dataset",
+  "original_retrieved_date": "2026-10-25",
+  "revision_checked_date": "2026-10-26",
+  "dataset_version": "1.0.0",
+  "generation_seed": 20260914,
+  "rows": 100000,
+  "columns": 274,
+  "synthetic": true,
+  "sha256": "6e371cb90369678c2d6683817e5db597cfc1ca3d6ca6c25b5ef4d20c300a9e5e"
+}

@@ -1,0 +1,6 @@
+column,eligible_cells,cells_with_little_separation,largest_absolute_mean_gap
+books_read_per_year,15,15,0.06531201921816168
+deep_work_hours_per_day,15,15,0.13394335102563742
+exercise_hours_per_week,15,15,0.1082095115172132
+sleep_duration_hours,15,15,0.14364994157460817
+social_media_hours_per_day,15,15,0.08756132663465639

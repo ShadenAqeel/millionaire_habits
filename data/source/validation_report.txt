@@ -1,0 +1,83 @@
+MILLIONAIRE HABITS DATASET - VALIDATION REPORT
+============================================================
+
+Dataset Version: 1.0.0
+Generation Seed: 20260914
+Generated: 2026-09-14 16:00:46
+
+SYNTHETIC DATA NOTICE
+----------------------------------------
+This is a SYNTHETIC dataset. It does NOT represent real individuals
+or a real millionaire survey. It was created for research, educational,
+exploratory data analysis, visualization, and ML experimentation.
+
+DATASET SIZE
+----------------------------------------
+Rows: 100,000
+Columns: 274
+File Size: 138.66 MB
+
+VALIDATION RESULTS
+----------------------------------------
+[PASS] total_assets >= 0
+[PASS] total_liabilities >= 0
+[PASS] net_worth = total_assets - total_liabilities
+[PASS] annual_income >= 0
+[PASS] savings_rate within bounds
+[PASS] exercise_days_per_week 0-7
+[PASS] sleep_duration_hours 3-12
+[PASS] age 18-100
+[PASS] scores 0-100
+[PASS] allocations 0-100
+[PASS] allocations sum to ~100%
+[PASS] millionaire_status derived correctly
+[PASS] multi_millionaire_status derived correctly
+[PASS] no duplicate IDs
+[PASS] no duplicate rows
+[PASS] no negative assets
+
+DATA QUALITY
+----------------------------------------
+Duplicate rows: 0
+Duplicate IDs: 0
+Columns with missing values: 33
+Average missingness: 0.78%
+
+KEY STATISTICS
+----------------------------------------
+Min Age: 20
+Max Age: 85
+Median Income: $117,531.93
+Mean Income: $148,664.65
+Median Net Worth: $795,720.61
+Mean Net Worth: $1,642,264.97
+Millionaires: 42,492 (42.49%)
+Multi-millionaires: 6,480 (6.48%)
+Average Savings Rate: 0.275
+Median Savings Rate: 0.275
+Average Financial Literacy: 46.1
+Average Productivity: 50.0
+Average Debt-to-Income: 0.655
+
+TOP 20 CORRELATIONS WITH MILLIONAIRE STATUS
+----------------------------------------
+millionaire_status: 1.0000
+net_worth_percentile: 0.8562
+portfolio_diversification_score: 0.6613
+investment_income_ratio: 0.6136
+net_worth_log: 0.5919
+passive_income_ratio: 0.5911
+income_percentile: 0.5253
+annual_savings: 0.5223
+monthly_savings: 0.5223
+total_assets: 0.4881
+net_worth: 0.4858
+monthly_income: 0.4842
+total_annual_income: 0.4842
+annual_salary: 0.4835
+investment_assets: 0.4670
+financial_independence_status: 0.4537
+stocks_value: 0.4486
+bonds_value: 0.4288
+retirement_accounts: 0.4156
+monthly_expenses: 0.4084

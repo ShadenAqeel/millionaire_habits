@@ -1,0 +1,14 @@
+{
+  "primary": "#187366",
+  "secondary": "#17324D",
+  "accent": "#B78125",
+  "negative": "#B04A5A",
+  "background": "#F7F8F5",
+  "text": "#17324D",
+  "muted": "#66788A",
+  "canvas": "#082938",
+  "surface": "#163F4B",
+  "light_text": "#F7F5EE",
+  "light_muted": "#C6D8DB",
+  "plot_background": "#F5F1E9"
+}

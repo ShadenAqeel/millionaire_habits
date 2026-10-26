@@ -1,0 +1,5 @@
+,sleep_duration_hours,sleep_duration_hours,sleep_duration_hours,sleep_duration_hours,exercise_hours_per_week,exercise_hours_per_week,exercise_hours_per_week,exercise_hours_per_week,books_read_per_year,books_read_per_year,books_read_per_year,books_read_per_year,deep_work_hours_per_day,deep_work_hours_per_day,deep_work_hours_per_day,deep_work_hours_per_day,social_media_hours_per_day,social_media_hours_per_day,social_media_hours_per_day,social_media_hours_per_day
+,count,mean,median,std,count,mean,median,std,count,mean,median,std,count,mean,median,std,count,mean,median,std
+status_label,,,,,,,,,,,,,,,,,,,,
+Millionaire,42492,7.989882801468511,8.0,1.8860489373084284,42492,3.0622611315071073,3.0,1.8914277174525402,40690,9.997321209142296,10.0,3.1709884012909435,42492,3.027167466817283,3.0,1.4694433620008325,42492,1.9924338699049233,1.4,1.9576509877352464
+Non-millionaire,57508,7.986012380886137,8.0,1.867921534722775,57508,3.0804148987966893,3.0,1.88406546263931,55161,10.007414658907562,10.0,3.16913244032214,57508,3.012332197259512,3.0,1.4722819951164978,57508,1.9976820616262085,1.4,1.9673498738819046

@@ -1,0 +1,4 @@
+matplotlib==3.10.8
+seaborn==0.13.2
+nbformat==5.11.1
+jupyter>=1,<2

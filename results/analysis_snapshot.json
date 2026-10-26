@@ -1,0 +1,79 @@
+{
+  "profiles": 100000,
+  "source_columns": 274,
+  "focused_columns": 21,
+  "millionaires": 42492,
+  "non_millionaires": 57508,
+  "typical_income": 117531.93,
+  "average_income": 148664.650501,
+  "income_iqr_flags": 4508,
+  "missing_source_columns": 33,
+  "missing_source_cells": 212640,
+  "reading_missing": 4149,
+  "negative_saving_profiles": 1113,
+  "eligible_context_groups": 15,
+  "context_coverage": 0.97822,
+  "small_context_millionaires": 12,
+  "financial_typical": {
+    "savings_rate_percent": {
+      "Millionaire": 31.7,
+      "Non-millionaire": 24.1
+    },
+    "investment_rate_percent": {
+      "Millionaire": 10.7,
+      "Non-millionaire": 6.6000000000000005
+    },
+    "housing_cost_percent": {
+      "Millionaire": 9.8,
+      "Non-millionaire": 21.1
+    }
+  },
+  "habit_typical": {
+    "sleep_duration_hours": {
+      "Millionaire": 8.0,
+      "Non-millionaire": 8.0
+    },
+    "exercise_hours_per_week": {
+      "Millionaire": 3.0,
+      "Non-millionaire": 3.0
+    },
+    "books_read_per_year": {
+      "Millionaire": 10.0,
+      "Non-millionaire": 10.0
+    },
+    "deep_work_hours_per_day": {
+      "Millionaire": 3.0,
+      "Non-millionaire": 3.0
+    },
+    "social_media_hours_per_day": {
+      "Millionaire": 1.4,
+      "Non-millionaire": 1.4
+    }
+  },
+  "income_rates": {
+    "Q1 lowest": 10.928,
+    "Q2": 29.720000000000002,
+    "Q3": 50.836000000000006,
+    "Q4 highest": 78.484
+  },
+  "context_50_64": {
+    "Non-millionaire": [
+      24.3,
+      23.6,
+      22.7,
+      18.9
+    ],
+    "Millionaire": [
+      34.1,
+      32.6,
+      31.6,
+      30.9
+    ]
+  },
+  "income_groups": [
+    "Q1 lowest",
+    "Q2",
+    "Q3",
+    "Q4 highest"
+  ]
+}

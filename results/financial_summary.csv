@@ -1,0 +1,5 @@
+,savings_rate_percent,savings_rate_percent,savings_rate_percent,investment_rate_percent,investment_rate_percent,investment_rate_percent,housing_cost_percent,housing_cost_percent,housing_cost_percent
+,count,mean,median,count,mean,median,count,mean,median
+status_label,,,,,,,,,
+Millionaire,42492,32.01750682481408,31.7,42492,11.50112021086322,10.7,42492,15.341873764473313,9.8
+Non-millionaire,57508,24.202305766154275,24.099999999999998,57508,8.747209083953537,6.6000000000000005,57508,30.79120296306601,21.099999999999998

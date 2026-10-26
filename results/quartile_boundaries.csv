@@ -1,0 +1,9 @@
+Measure,Group,Lower,Upper
+total_annual_income,Q1 lowest,5278.68,69427.38249999999
+total_annual_income,Q2,69427.38249999999,117531.93
+total_annual_income,Q3,117531.93,193892.74
+total_annual_income,Q4 highest,193892.74,1378222.6
+savings_rate,Q1 lowest,-0.2,0.193
+savings_rate,Q2,0.193,0.275
+savings_rate,Q3,0.275,0.357
+savings_rate,Q4 highest,0.357,0.745

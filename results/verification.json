@@ -1,0 +1,56 @@
+{
+  "status": "passed",
+  "rows": 100000,
+  "focused_columns": 21,
+  "notebook_code_cells": 33,
+  "overall_measure_comparisons": 10,
+  "age_income_measure_comparisons": 128,
+  "filtered_scenarios": 28,
+  "streamlit_reruns": 15,
+  "edge_cases": [
+    "empty",
+    "one group",
+    "small group",
+    "all missing",
+    "equal constants",
+    "different constants",
+    "reversed savings"
+  ],
+  "checks": [
+    "notebook and dashboard agreement",
+    "actual-value chart labels",
+    "filter-responsive explanations",
+    "reset",
+    "limited source disclosure"
+  ],
+  "verification_date": "2026-10-27",
+  "deployment_environment": {
+    "python": "3.12",
+    "clean_virtual_environment": true,
+    "installed_from": "requirements.txt",
+    "pip_check": "passed",
+    "live_app_tests": "passed"
+  },
+  "visual_checks": {
+    "desktop": "1512x1100",
+    "tablet": "1024x900",
+    "mobile": "390x844",
+    "horizontal_page_overflow": false,
+    "browser_javascript_errors": 0
+  },
+  "report": {
+    "pages": 11,
+    "eda_figures": 8,
+    "required_sections": 9,
+    "dashboard_screenshots": 2,
+    "rendered_and_inspected": true
+  },
+  "presentation": {
+    "slides": 7,
+    "editable_charts": 4,
+    "speaking_words": 846,
+    "suggested_duration": "6m10s",
+    "native_chart_workbooks": "verified",
+    "rendered_and_inspected": true
+  }
+}
