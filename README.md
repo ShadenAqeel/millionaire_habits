@@ -8,6 +8,19 @@ The Millionaire Habits Dataset contains 100,000 profiles with routines, income, 
 
 I chose it because the question is easy to relate to, and a weak habit result is still an answer worth reporting. I expect financial behaviors and background to add context, but the plots will decide what we can say.
 
+## Run locally
+
+Use Python 3.12. From this folder:
+
+```bash
+python -m pip install -r requirements.txt
+python -m streamlit run dashboard/app.py
+```
+
+The dashboard uses the included cleaned CSV. No account, API key, or dataset download is needed.
+
+For the notebook, install `requirements-notebook.txt` too, then open `Millionaire_Habits_EDA.ipynb`. Its first run downloads the full source CSV if needed. Run the cells from this folder.
+
 ## Files
 
 - `Millionaire_Habits_EDA.ipynb`: analysis, cleaning, outputs, and plots.
