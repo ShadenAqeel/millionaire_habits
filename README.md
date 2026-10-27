@@ -19,15 +19,11 @@ python -m streamlit run dashboard/app.py
 
 The dashboard uses the included cleaned CSV. No account, API key, or dataset download is needed.
 
-For the notebook, install `requirements-notebook.txt` too, then open `Millionaire_Habits_EDA.ipynb`. Its first run downloads the full source CSV if needed. Run the cells from this folder.
-
 ## Files
 
 - `Millionaire_Habits_EDA.ipynb`: analysis, cleaning, outputs, and plots.
 - `dashboard/`: app, helper files, cleaned data, and editable `theme.json`.
 - `presentation/`: seven slides.
 
-Run `python tests/verify_project.py` to check the calculations and filters.
-
 [Dataset source](https://www.kaggle.com/datasets/datascikhan/millionaire-habits-dataset)
-The profiles are synthetic; the findings describe this file and show associations, not causes or advice for becoming wealthy -sadly :( -.
+The profiles are synthetic; the findings describe this file and show associations, not causes or advice for becoming wealthy -sadly-.
